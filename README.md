@@ -58,7 +58,7 @@ I’m passionate about **design** and **technology**, striving to create stunnin
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MFajriAlfaini&theme=dark&hide_border=false&include_all_commits=false&count_private=true" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MFajriAlfaini&theme=dark&hide_border=false" height="150">
+ <img src="https://streak-stats.demolab.com/?user=MFajriAlfaini&theme=dark&hide_border=false" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFajriAlfaini&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="150">
 </p>
 
