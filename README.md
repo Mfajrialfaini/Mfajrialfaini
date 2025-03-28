@@ -1,9 +1,8 @@
-# 💫 About Me:
 👋 About Me  <br><br>🎨 Graphic Designer | 💻 UI/UX Enthusiast | 🌐 Web Developer  <br><br>I’m passionate about design and technology, striving to create stunning visuals and seamless user experiences. Currently, I'm honing my skills in UI/UX design and web development.  <br><br>🔭 I’m currently working on improving my UI/UX design skills and developing responsive web applications.  <br>👯 I’m looking to collaborate on design projects and front-end web development.  <br>🤝 I’m looking for help with mastering advanced JavaScript and UX research techniques.  <br>🌱 I’m currently learning JavaScript frameworks and UI/UX design principles.  <br>💬 Ask me about graphic design, front-end development, or anything related to UI/UX!  <br>⚡ Fun fact: I love exploring color psychology and how design influences user behavior.  <br><br>🚀 Let’s create something amazing together!  
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mfajrialvaini) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Fajri || Joki PPT) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mfajrialvaini03@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mfajrialvaini) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@panggilajakil?_t=ZS-8v3zR0kxFEW&_r=1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mfajrialvaini03@gmail.com) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 💻 Tech Stack:
