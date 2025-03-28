@@ -8,14 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=🚀+Welcome+to+My+Home!;🎨+Graphic+Designer+%7C+💻+UI%2FUX+Enthusiast+%7C+🌐+Web+Developer;🔥+Passionate+about+Creativity+%26+Technology!;💡+Always+Learning+%26+Improving!;✨+Let's+Create+Something+Awesome!" alt="Typing SVG" />
 </p>
 
-<!-- 🌟 Additional Icons for a Professional Look -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Graphic%20Design-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX%20Design-%2300C4CC.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Development-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-
-
 # 👋 About Me  
 
 🎨 Graphic Designer | 💻 UI/UX Enthusiast | 🌐 Web Developer  
