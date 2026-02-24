@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=300&section=header&text=MFajriAlfaini&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Graphic%20Designer%20|%20UI/UX%20Enthusiast%20|%20Fullstack%20Developer&descSize=20&descAlignY=55" width="100%">
+<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=300&section=header&text=Welcome%20To%20My%20GitHub%20Profile&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Graphic%20Designer%20|%20UI/UX%20Enthusiast%20|%20Fullstack%20Developer&descSize=20&descAlignY=55" width="100%">
 </p>
 
 <!-- 🔥 Anime / Card / Tech Aesthetic GIF -->
