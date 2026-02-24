@@ -1,87 +1,64 @@
-<!-- 👋 GIF Lambaian Tangan -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=300&section=header&text=MFajriAlfaini&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Graphic%20Designer%20|%20UI/UX%20Enthusiast%20|%20Fullstack%20Developer&descSize=20&descAlignY=55" width="100%">
 </p>
 
-<!-- 🚀 Welcome Typing Animation with More Emojis -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=🚀+Welcome+to+My+Home!;🎨+Graphic+Designer+%7C+💻+UI%2FUX+Enthusiast+%7C+🌐+Web+Developer;🔥+Passionate+about+Creativity+%26+Technology!;💡+Always+Learning+%26+Improving!;✨+Let's+Create+Something+Awesome!" alt="Typing SVG" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZueXo1eXp6Z3ZueXo1eXp6Z3ZueXo1eXp6Z3ZueXo1JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZContext=true/3o7TKMGpxxcaNnU5vG/giphy.gif" width="600" alt="Anime Coding">
 </p>
 
-# 👋 About Me  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=5BC0BE&center=true&vCenter=true&width=1000&lines=🚀+Crafting+Digital+Experiences;🎨+Blending+Art+with+Technology;💻+Turning+Code+into+Masterpieces;✨+Let's+Build+Something+Iconic!" alt="Typing SVG" />
+</p>
 
-🎨 Graphic Designer | 💻 UI/UX Enthusiast | 🌐 Web Developer  
+🌌 Overview
+Kamu sedang melihat profil seorang kreator visual yang hobi menulis baris kode. Saya menggabungkan estetika desain dengan fungsionalitas teknologi untuk menciptakan produk digital yang berkesan.
 
-I’m passionate about **design** and **technology**, striving to create stunning visuals and seamless user experiences. Currently, I'm honing my skills in **UI/UX design** and **web development**.  
+🔭 Sedang fokus membangun aplikasi web responsif dan sistem desain yang skalabel.
 
-🔭 I’m currently working on improving my UI/UX design skills and developing responsive web applications.  
-👯 I’m looking to collaborate on design projects and front-end web development.  
-🤝 I’m looking for help with mastering advanced JavaScript and UX research techniques.  
-🌱 I’m currently learning JavaScript frameworks and UI/UX design principles.  
-💬 Ask me about graphic design, front-end development, or anything related to UI/UX!  
-⚡ Fun fact: I love exploring color psychology and how design influences user behavior.  
+👯 Terbuka untuk kolaborasi proyek open source dan desain UI/UX tingkat lanjut.
 
-🚀 Let’s create something amazing together!  
+🤝 Ingin memperdalam ekosistem JavaScript modern dan riset pengalaman pengguna.
 
----
+⚡ Fakta menarik: Saya percaya bahwa pilihan warna yang tepat bisa mengubah suasana hati pengguna secara instan.
 
-## 🌐 Connect with Me  
+🛠 My Digital Toolkit
+Development Languages & Frameworks
 <p align="left">
-  <a href="https://instagram.com/Mfajrialvaini" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>
-  <a href="https://www.tiktok.com/@panggilajakil" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
-  </a>
-  <a href="mailto:mfajrialvaini03@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,dart,flutter,firebase,bootstrap,tailwind" />
 </p>
 
----
-
-## 💻 Tech Stack  
+Design & Creative Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
+<img src="https://skillicons.dev/icons?i=ai,ps,figma,blender,canva" />
 </p>
 
-### 🎨 Design & Creative Tools  
+📈 Performance Metrics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MFajriAlfaini&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFajriAlfaini&layout=compact&theme=tokyonight&border_radius=10" height="180">
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MFajriAlfaini&theme=tokyonight&border_radius=10" width="100%">
+</p>
+
+💬 Connect With Me
 <p align="left">
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+<a href="https://instagram.com/Mfajrialvaini" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.tiktok.com/@panggilajakil" target="_blank">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+<a href="mailto:mfajrialvaini03@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
----
-
-## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MFajriAlfaini&theme=dark&hide_border=false&include_all_commits=false&count_private=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFajriAlfaini&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="150">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 </p>
 
----
-
-### ✍️ KATA-KATA DONG KAK
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+<img src="https://komarev.com/ghpvc/?username=MFajriAlfaini&label=Profile%20Views&color=5BC0BE&style=flat-square" alt="MFajriAlfaini" />
 </p>
-
----
-
-### 🔥 Profile Views  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MFajriAlfaini&label=Profile%20Views&color=blue&style=flat" alt="MFajriAlfaini" />
-</p>
-
