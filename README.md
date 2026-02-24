@@ -11,13 +11,13 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=5BC0BE&center=true&vCenter=true&width=1000&lines=🚀+Crafting+Digital+Experiences;🎨+Blending+Art+with+Technology;💻+Turning+Code+into+Masterpieces;✨+Let's+Build+Something+Iconic!" alt="Typing SVG" />
 </p>
 
-🌌 Overview  
-Kamu sedang melihat profil seorang kreator visual yang hobi menulis baris kode. Saya menggabungkan estetika desain dengan fungsionalitas teknologi untuk menciptakan produk digital yang berkesan.
+🌌 Overview
+Saya membangun produk digital dari dua sisi: visual dan logika. Dengan kombinasi desain dan pemrograman, saya fokus menciptakan pengalaman yang fungsional, bersih, dan berdampak.
 
-🔭 Sedang fokus membangun aplikasi web responsif dan sistem desain yang skalabel.  
-👯 Terbuka untuk kolaborasi proyek open source dan desain UI/UX tingkat lanjut.  
-🤝 Ingin memperdalam ekosistem JavaScript modern dan riset pengalaman pengguna.  
-⚡ Fakta menarik: Saya percaya bahwa pilihan warna yang tepat bisa mengubah suasana hati pengguna secara instan.
+🔭 Mengembangkan aplikasi web responsif dan sistem yang scalable.
+👯 Terbuka untuk kolaborasi pengembangan produk dan eksplorasi UI/UX.
+🤝 Terus memperdalam teknologi modern dan praktik pengembangan terbaik.
+⚡ Detail kecil dalam desain dan struktur kode menentukan kualitas akhir produk.
 
 ---
 
