@@ -1,7 +1,5 @@
-<!-- HEADER -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20To%20My%20Profile&fontSize=55&fontAlignY=35&desc=Muhammad%20Fajri%20Alfaini&descSize=25&descAlignY=60&animation=fadeIn" width="100%" />
-</p>
+<h1 align="center">Welcome to My GitHub</h1>
+<p align="center"><strong>Muhammad Fajri Alfaini</strong></p>
 
 <!-- RANDOM ANIME GIF -->
 <p align="center">
