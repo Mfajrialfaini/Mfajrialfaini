@@ -1,218 +1,227 @@
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░                    2-BIT MODE  //  FAJRI.EXE                      ░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    HERO BANNER                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=16&color=0:000000,100:000000" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=340&color=0:0D0D0D,50:0A192F,100:0D0D0D&text=M.%20Fajri%20Alfaini&fontSize=62&fontColor=5BC0BE&fontAlignY=42&desc=Fullstack%20Developer%20%E2%80%A2%20UI%2FUX%20Architect%20%E2%80%A2%20Digital%20Craftsman&descSize=18&descAlignY=62&descColor=8892B0&animation=fadeIn&stroke=5BC0BE&strokeWidth=1" width="100%" />
+```
+██████╗ ██╗████████╗    ███╗   ███╗ ██████╗ ██████╗ ███████╗
+██╔══██╗██║╚══██╔══╝    ████╗ ████║██╔═══██╗██╔══██╗██╔════╝
+██████╔╝██║   ██║       ██╔████╔██║██║   ██║██║  ██║█████╗  
+██╔══██╗██║   ██║       ██║╚██╔╝██║██║   ██║██║  ██║██╔══╝  
+██████╔╝██║   ██║       ██║ ╚═╝ ██║╚██████╔╝██████╔╝███████╗
+╚═════╝ ╚═╝   ╚═╝       ╚═╝     ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝
+```
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  ANIMATED TYPING LINE                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:39FF14,100:39FF14" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=5BC0BE&center=true&vCenter=true&width=750&lines=⬡+Building+Systems+That+Scale+%26+Inspire;⬡+Code+is+Poetry.+Design+is+Intent.;⬡+Bridging+Logic+%26+Aesthetics+Since+Day+One;⬡+From+Wireframe+to+Production+—+I+Own+It.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2800&pause=800&color=39FF14&background=000000&center=true&vCenter=true&width=700&lines=>+INITIALIZING+FAJRI.EXE...;>+LOADING+SKILLS+████████████+100%25;>+STATUS%3A+FULLSTACK+DEVELOPER+%5BACTIVE%5D;>+ROLE%3A+UI%2FUX+ARCHITECT+%5BONLINE%5D;>+MISSION%3A+BUILD.+DESIGN.+SHIP.+REPEAT.)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   SOCIAL BADGES                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Mfajrialvaini)
-[![TikTok](https://img.shields.io/badge/TIKTOK-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@panggilajakil)
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mfajrialvaini03@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=MFajriAlfaini&label=PROFILE+VIEWS&color=5BC0BE&style=for-the-badge)](https://github.com/MFajriAlfaini)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:39FF14,100:39FF14" width="100%"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  ABOUT ME SECTION                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░                        BOOT SEQUENCE                               ░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-## `$ whoami`
-
-```yaml
-name       : M. Fajri Alfaini
-role       : Fullstack Developer & UI/UX Architect
-focus      : [ Web Apps, Scalable Systems, UX Design ]
-mindset    : "Detail-obsessed. Impact-driven."
-currently  : Building responsive, scalable products
-open_to    : Collaboration & Product Innovation
-principle  : Every pixel and every line of code matters.
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  SYSTEM BOOT  //  FAJRI OS v2.0  //  ALL SYSTEMS NOMINAL            │
+├──────────────────────────┬──────────────────────────────────────────┤
+│  USER       : MFajriAlfaini          │  BUILD    : FULLSTACK + UX   │
+│  CLASS      : DEVELOPER              │  LANG     : ID / EN          │
+│  SPEC       : UI/UX ARCHITECT        │  STATUS   : [■■■■] ONLINE    │
+│  RUNTIME    : PRODUCTION READY       │  UPTIME   : 99.9%            │
+├──────────────────────────────────────────────────────────────────────┤
+│  MISSION  > Craft digital products that are clean, fast & iconic.   │
+│  CREED    > Every pixel matters. Every function counts.             │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
 
-> *"The best interface is one the user never has to think about — and the best code is one the next developer never has to question."*
-
-</td>
-<td valign="top" width="50%">
-
-## `$ stats --live`
-
-<img src="https://github-readme-stats.vercel.app/api?username=MFajriAlfaini&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=12&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=5BC0BE&icon_color=5BC0BE&title_color=5BC0BE&text_color=8892B0" width="100%" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               STREAK + LANGUAGES                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MFajriAlfaini&theme=tokyonight&border_radius=12&border=5BC0BE&ring=5BC0BE&fire=FF6B35&currStreakLabel=5BC0BE&background=0D1117&sideLabels=8892B0&dates=8892B0" width="58%" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFajriAlfaini&layout=compact&theme=tokyonight&border_radius=12&bg_color=0D1117&border_color=5BC0BE&title_color=5BC0BE&text_color=8892B0&langs_count=8" width="36%" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                 ACTIVITY GRAPH                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MFajriAlfaini&theme=react-dark&bg_color=0D1117&color=5BC0BE&line=5BC0BE&point=FFFFFF&area=true&area_color=5BC0BE&hide_border=false&border_color=5BC0BE&radius=12" width="100%" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               TECH STACK SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## ⬡ &nbsp;Tech Ecosystem
-
-<div align="center">
-
-### `// Frontend & Mobile`
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### `// Backend & Infrastructure`
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### `// Design & Creative`
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![CorelDRAW](https://img.shields.io/badge/CorelDRAW-00B140?style=for-the-badge&logo=coreldraw&logoColor=white)
-![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--              SKILLS PROFICIENCY BARS                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## ⬡ &nbsp;Proficiency Map
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░                         STATS MODULE                               ░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 ```
-Frontend Development    ████████████████████░  95%
-UI/UX Design           ██████████████████░░░  88%
-Backend Development    ████████████████░░░░░  80%
-Mobile (Flutter)       ██████████████░░░░░░░  72%
-Database Design        ████████████████░░░░░  80%
-3D & Visual Design     ████████████░░░░░░░░░  65%
+┌──────────────────────────┐
+│  > LOADING STATS.DAT...  │
+└──────────────────────────┘
 ```
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--              GITHUB TROPHIES                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## ⬡ &nbsp;Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MFajriAlfaini&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=7&rank=SSS,SS,S,AAA,AA,A,B" width="100%" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--            WHAT I BRING TO THE TABLE                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## ⬡ &nbsp;What I Bring to Every Project
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**🎯 Precision**
-<br/>
-I obsess over the small details — spacing, transitions, naming conventions — because quality lives in the margins.
-
-</td>
-<td align="center" width="25%">
-
-**⚡ Velocity**
-<br/>
-From concept to deployment. I move fast without cutting corners, balancing speed with engineering discipline.
-
-</td>
-<td align="center" width="25%">
-
-**🎨 Design Thinking**
-<br/>
-Every interface I build starts with empathy. I design for the user, not the spec sheet.
-
-</td>
-<td align="center" width="25%">
-
-**🔩 Systems Thinking**
-<br/>
-I build for today but architect for tomorrow — scalable, maintainable, extensible by design.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  QUOTE FOOTER                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
+<img src="https://github-readme-stats.vercel.app/api?username=MFajriAlfaini&show_icons=true&theme=chartreuse-dark&rank_icon=github&border_radius=0&include_all_commits=true&count_private=true&bg_color=000000&border_color=39FF14&icon_color=39FF14&title_color=39FF14&text_color=39FF14&cache_seconds=86400" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFajriAlfaini&layout=compact&theme=chartreuse-dark&border_radius=0&bg_color=000000&border_color=39FF14&title_color=39FF14&text_color=39FF14&langs_count=6&cache_seconds=86400" height="175"/>
 
 <br/><br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  FOOTER WAVE                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://streak-stats.demolab.com?user=MFajriAlfaini&theme=dark&border_radius=0&border=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&background=000000&sideLabels=39FF14&dates=39FF14&sideNums=39FF14&currStreakNum=39FF14" width="70%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:0A192F,100:0D1117&section=footer&text=Let%27s%20build%20something%20iconic.&fontSize=22&fontColor=5BC0BE&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░                       SKILL TREE                                   ░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  > SKILL_TREE.DAT  //  LOADING...                                   │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  FRONTEND     [████████████████████] 95%  ■ HTML  ■ CSS  ■ JS      │
+│  UI/UX        [██████████████████░░] 88%  ■ Figma ■ PS  ■ AI       │
+│  BACKEND      [████████████████░░░░] 80%  ■ PHP   ■ Go  ■ Python   │
+│  MOBILE       [██████████████░░░░░░] 72%  ■ Flutter  ■ Dart        │
+│  DATABASE     [████████████████░░░░] 80%  ■ MySQL ■ Firebase       │
+│  3D/VISUAL    [████████████░░░░░░░░] 65%  ■ Blender ■ SketchUp     │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░                       TECH STACK                                   ░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  > ARSENAL.EXE  //  WEAPONS LOADED                                  │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+`[ FRONTEND & MOBILE ]`
+
+![HTML5](https://img.shields.io/badge/HTML5-%23000000.svg?style=flat-square&logo=html5&logoColor=39FF14)
+![CSS3](https://img.shields.io/badge/CSS3-%23000000.svg?style=flat-square&logo=css3&logoColor=39FF14)
+![JavaScript](https://img.shields.io/badge/JS-%23000000.svg?style=flat-square&logo=javascript&logoColor=39FF14)
+![React](https://img.shields.io/badge/React-%23000000.svg?style=flat-square&logo=react&logoColor=39FF14)
+![Flutter](https://img.shields.io/badge/Flutter-%23000000.svg?style=flat-square&logo=flutter&logoColor=39FF14)
+![Tailwind](https://img.shields.io/badge/Tailwind-%23000000.svg?style=flat-square&logo=tailwind-css&logoColor=39FF14)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23000000.svg?style=flat-square&logo=bootstrap&logoColor=39FF14)
+
+`[ BACKEND & DB ]`
+
+![PHP](https://img.shields.io/badge/PHP-%23000000.svg?style=flat-square&logo=php&logoColor=39FF14)
+![Python](https://img.shields.io/badge/Python-%23000000.svg?style=flat-square&logo=python&logoColor=39FF14)
+![Go](https://img.shields.io/badge/Go-%23000000.svg?style=flat-square&logo=go&logoColor=39FF14)
+![Dart](https://img.shields.io/badge/Dart-%23000000.svg?style=flat-square&logo=dart&logoColor=39FF14)
+![Laravel](https://img.shields.io/badge/Laravel-%23000000.svg?style=flat-square&logo=laravel&logoColor=39FF14)
+![MySQL](https://img.shields.io/badge/MySQL-%23000000.svg?style=flat-square&logo=mysql&logoColor=39FF14)
+![Firebase](https://img.shields.io/badge/Firebase-%23000000.svg?style=flat-square&logo=firebase&logoColor=39FF14)
+
+`[ DESIGN & CREATIVE ]`
+
+![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=flat-square&logo=figma&logoColor=39FF14)
+![Illustrator](https://img.shields.io/badge/AI-%23000000.svg?style=flat-square&logo=adobe-illustrator&logoColor=39FF14)
+![Photoshop](https://img.shields.io/badge/PS-%23000000.svg?style=flat-square&logo=adobe-photoshop&logoColor=39FF14)
+![Blender](https://img.shields.io/badge/Blender-%23000000.svg?style=flat-square&logo=blender&logoColor=39FF14)
+![Canva](https://img.shields.io/badge/Canva-%23000000.svg?style=flat-square&logo=canva&logoColor=39FF14)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-%23000000.svg?style=flat-square&logo=coreldraw&logoColor=39FF14)
+![SketchUp](https://img.shields.io/badge/SketchUp-%23000000.svg?style=flat-square&logo=sketchup&logoColor=39FF14)
+
+</div>
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░                      ACTIVITY GRAPH                                ░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  > GIT LOG --GRAPH  //  COMMIT HISTORY                              │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MFajriAlfaini&bg_color=000000&color=39FF14&line=39FF14&point=39FF14&area=true&area_color=39FF14&hide_border=false&border_color=39FF14&radius=0&custom_title=%3E%20FAJRI%27S%20COMMIT%20TIMELINE%20%5BACTIVE%5D" width="100%" />
+</div>
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░                       TROPHIES                                      ░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  > ACHIEVEMENT_UNLOCKED.DAT  //  HALL OF FAME                       │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MFajriAlfaini&theme=matrix&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=4" width="100%" />
+</div>
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░                    CONTRIBUTION SNAKE                              ░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  > SNAKE.EXE  //  CONSUMING CONTRIBUTIONS                           │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MFajriAlfaini/MFajriAlfaini/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MFajriAlfaini/MFajriAlfaini/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/MFajriAlfaini/MFajriAlfaini/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+</div>
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░                       CONNECT MODULE                               ░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  > CONNECT.SH  //  ESTABLISH LINK                                   │
+├─────────────────────────────────────────────────────────────────────┤
+│  $ ping instagram  →  @Mfajrialvaini                                │
+│  $ ping tiktok     →  @panggilajakil                                │
+│  $ ping email      →  mfajrialvaini03@gmail.com                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/%5B_INSTAGRAM_%5D-000000?style=flat-square&logo=instagram&logoColor=39FF14)](https://instagram.com/Mfajrialvaini)
+[![TikTok](https://img.shields.io/badge/%5B_TIKTOK______%5D-000000?style=flat-square&logo=tiktok&logoColor=39FF14)](https://www.tiktok.com/@panggilajakil)
+[![Gmail](https://img.shields.io/badge/%5B_GMAIL_______%5D-000000?style=flat-square&logo=gmail&logoColor=39FF14)](mailto:mfajrialvaini03@gmail.com)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=MFajriAlfaini&label=VISITORS+LOGGED&color=000000&labelColor=000000&style=flat-square)](https://github.com/MFajriAlfaini)
+
+<br/>
+
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░  > SESSION TERMINATED  //  FAJRI.EXE  //  BUILD SOMETHING GREAT.  ░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
 
 </div>
